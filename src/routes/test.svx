@@ -1,0 +1,21 @@
+---
+---
+
+# Title
+
+**Some text**
+
+- a
+- short
+- list
+
+```js
+export class Sample {
+    constructor() {}
+}
+```
+
+```javascript
+let fuga: number = 0;
+let piyo: string = 'piyo';
+```
